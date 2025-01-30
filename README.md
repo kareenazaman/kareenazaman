@@ -1,5 +1,5 @@
-# Welcome to My GitHub! 👋
-I'm Kareena Zaman, a CS student at TRU.  
+# Hey! 👋 This is Kareena
+I'm a CS student at TRU.  
 🚀 Passionate about web & mobile development.  
 
 ## Tech Stack 💻  
