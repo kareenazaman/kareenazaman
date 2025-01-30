@@ -18,7 +18,8 @@ I'm a **Computer Science student at Thompson Rivers University** with a passion 
 
 ## 🌱 Currently Exploring  
 - React Native for cross-platform mobile apps  
-- Advanced backend development with Django REST API  
+- Advanced backend development with Django REST API
+- Generative AI 
 
 ## 📫 Let's Connect  
 📧 Email: kareenazaman@gmail.com  
