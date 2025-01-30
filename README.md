@@ -12,7 +12,7 @@ I'm a **Computer Science student at Thompson Rivers University** with a passion 
 ## 🛠️ Tech Stack  
 - **Languages:** JavaScript, Java, Python  
 - **Frontend:** HTML, CSS, React  
-- **Backend:** Flask, Django  
+- **Backend:** Flask, Django, Bootstrap  
 - **Mobile:** Android Studio (Java)  
 - **Database:** Firebase, SQLite  
 
@@ -21,5 +21,5 @@ I'm a **Computer Science student at Thompson Rivers University** with a passion 
 - Advanced backend development with Django REST API  
 
 ## 📫 Let's Connect  
-📧 Email: kareenazaman@example.com  
-💼 LinkedIn: [linkedin.com/in/kareenazaman](#)  
+📧 Email: kareenazaman@gmail.com  
+💼 LinkedIn: [https://www.linkedin.com/in/kareena-zaman-49b118300](#)  
