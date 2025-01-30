@@ -4,8 +4,8 @@
 I'm a **Computer Science student at Thompson Rivers University** with a passion for **building scalable web and mobile applications**. I enjoy problem-solving, UI/UX design, and working with modern technologies to create seamless digital experiences.  
 
 ## 💡 What I Do  
-- 🌐 **Full-Stack Web Development** with **HTML, CSS, JavaScript, Flask, and Django**  
-- 📱 **Mobile App Development** with **Android Studio & Java**  
+- 🌐 **Full-Stack Web Development**
+- 📱 **Mobile App Development**
 - 🎨 **Frontend Development & UI/UX Design**  
 - 🔍 Always learning new technologies and frameworks  
 
