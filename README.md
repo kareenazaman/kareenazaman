@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Kareena Zaman  
 
-I'm a **CS student at Thompson Rivers University** with a passion for **building scalable web and mobile applications**. I enjoy problem-solving, UI/UX design, and working with modern technologies to create seamless digital experiences.  
+A **CS student at Thompson Rivers University** with a passion for **building scalable web and mobile applications**. I enjoy problem-solving, UI/UX design, and working with modern technologies to create seamless digital experiences.  
 
 ## 💡 What I Do  
 - 🌐 **Full-Stack Web Development**
